@@ -1,1 +1,1 @@
-# CXR-Binary-Classifcation
+# CXR-Binary-Classification
